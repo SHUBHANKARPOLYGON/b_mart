@@ -1,6 +1,6 @@
-# b_mart
+# B_Mart
 
-A new Flutter project.
+Grocerry Mall Project 
 
 ## Getting Started
 
